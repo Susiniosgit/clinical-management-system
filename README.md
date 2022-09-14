@@ -10,7 +10,7 @@
 <img src="https://github.com/Susiniosgit/clinical-management-system/blob/master/screenshot/2.PNG" width="400" height="200" />
 </div>
 <div> <img src="https://github.com/Susiniosgit/clinical-management-system/blob/master/screenshot/3.PNG" width="400" height="200" />
-<img src="https://github.com/Susiniosgit/clinical-management-system/tree/blob/screenshot/4.PNG" width="400" height="200" />
+<img src="https://github.com/Susiniosgit/clinical-management-system/blob/master/screenshot/4.PNG" width="400" height="200" />
     <img src="https://github.com/Susiniosgit/clinical-management-system/blob/master/screenshot/5.PNG" width="400" height="200" />
 </div>
 
