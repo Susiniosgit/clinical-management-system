@@ -159,8 +159,13 @@ $ python manage.py runserver
 - https://stackoverflow.com/questions/46155/how-to-validate-an-email-address-in-javascript
 - https://stackoverflow.com/questions/3429084/why-do-i-get-an-object-is-not-iterable-error
 
+## Demo
 
+https://www.youtube.com/watch?v=Iu6hdwYl_g4
 
+Authors
+
+[Susenyos Legesse] (magnawlege@gmail.com)
 
 
 
