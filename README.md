@@ -53,7 +53,7 @@ $  source venv/scripts/activate
 ```
 **3. Clone this project**
 ```
-$  git clone https://github.com/jobic10/student-management-using-django.git
+$  git clone https://github.com/Susiniosgit/clinical-management-system
 ```
 
 Then, Enter the project
@@ -158,7 +158,6 @@ $ python manage.py runserver
 - https://support.google.com/mail/thread/38519529?hl=en
 - https://stackoverflow.com/questions/46155/how-to-validate-an-email-address-in-javascript
 - https://stackoverflow.com/questions/3429084/why-do-i-get-an-object-is-not-iterable-error
-
 
 
 
