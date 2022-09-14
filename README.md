@@ -163,9 +163,8 @@ $ python manage.py runserver
 
 https://www.youtube.com/watch?v=Iu6hdwYl_g4
 
-Authors
-
-[Susenyos Legesse] (magnawlege@gmail.com)
+## Authors
+Susinios Legesse - [Github](https://github.com/Susiniosgit)
 
 
 
