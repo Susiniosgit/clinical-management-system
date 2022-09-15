@@ -80,7 +80,15 @@ Command for PC:
 ```python
 $ python manage.py runserver
 ```
-        
+
+**7. Login Credentials**
+Create Super User (HOD) Command for PC:
+
+$  python manage.py createsuperuser 
+
+Then Add Email and Password
+
+or Use Default Credentials listed in belows
 -----------------------------------------------------------------------------------
 
 ### Admin User Login: 
